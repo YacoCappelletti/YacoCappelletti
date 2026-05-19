@@ -2,9 +2,7 @@
 
 I'm Yaco, a Data Science graduate focused on turning complex data into clear insights. I enjoy building practical tools—whether that's digging into datasets with Python or setting up full-stack applications with React and Java.
 
-<div align="center" style="margin: 15px 0;">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=700&q=80&auto=format" alt="" style="border-radius: 8px; max-width: 700px;">
-</div>
+
 
 ### 🛠️ What I work with
 - **Data & ML:** Python, Pandas, Scikit-learn, TensorFlow, XGBoost, SQL.
