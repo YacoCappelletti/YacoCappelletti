@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/836LdHqc6vjJyLhK1P/giphy.gif" alt="Welcome!" width="200">
-</p>
-
 <h3 align="center"> 👋 Hi there! </h3>
 
 I'm Yaco, a Data Science graduate focused on turning complex data into clear insights. I enjoy building practical tools—whether that's digging into datasets with Python or setting up full-stack applications with React and Java.
