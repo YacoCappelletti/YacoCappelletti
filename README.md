@@ -1,43 +1,40 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/836LdHqc6vjJyLhK1P/giphy.gif" alt="Hola!" width="200">
+  <img src="https://media.giphy.com/media/836LdHqc6vjJyLhK1P/giphy.gif" alt="Welcome!" width="200">
 </p>
 
-<h3 align="center">¡Hola! 👋 Soy Yaco</h3>
-
-<div align="center">
-📊 <b>Data Scientist</b> en formación | 🍔 <b>Shift Manager</b> por las noches | 🇦🇷 De Argentina a España 🇪🇸
-</div>
+<h3 align="center">👋 Welcome!</h3>
 
 ---
 
-### 🔍 Sobre mí
+### 🔍 About Me
 
-- **29 años**, viviendo en <b>Blanes, Cataluña</b>
-- Graduado en **Data Science** por la UOC (Universidad Open de Cataluña)
-- Buscando transición profesional como <b>Data Scientist / Data Analyst</b>
-- Multi-project hustler: desarrollo lado día, analizo datos lado noche 💪
+- Data Science graduate with a focus on **Analytical Data Science**
+- Passionate about turning data into actionable insights
+- Building projects in Machine Learning, Fullstack Development & Cloud Computing
 
 ### 🛠️ Tech Stack
 
-| Categoría | Tecnologías |
-|-----------|-------------|
+| Category | Technologies |
+|----------|-------------|
 | **Data Science** | Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Jupyter |
-| **Backend** | Java, Spring Boot, REST APIs, SQL |
-| **Frontend** | React, JavaScript, TypeScript, Redux |
-| **DevOps/Tools** | Git, Docker, Linux, SSH, GitHub Actions |
+| **Machine Learning** | TensorFlow, PyTorch, XGBoost, feature engineering |
+| **Backend** | Java (Spring Boot), REST APIs, SQL/MySQL |
+| **Frontend** | React, JavaScript, TypeScript, Redux, Tailwind CSS |
+| **Tools** | Git, Docker, Linux, CI/CD pipelines |
 
-### 📊 Proyectos Destacados
+### 📊 Featured Projects
 
-- [🔥 Análisis de Churn](https://github.com/YacoCappelletti/analisis_churn_empresa_telecomunicaciones) — EDA completo con reportes PDF y pruebas estadísticas
-- [📈 Marketing Bancario](https://github.com/YacoCappelletti/analisis_marketing_banco) — Campaña de marketing con análisis predictivo
-- [🏨 Reservas Hoteleras](https://github.com/YacoCappelletti/analisis_reservas_hotel) — Predicción de cancelaciones con EDA avanzado
-- [💻 Full Stack Blog](https://github.com/YacoCappelletti/fake_blog) — Plataforma completa React + Spring Boot + MySQL
+- [🔥 Churn Analysis](https://github.com/YacoCappelletti/analisis_churn_empresa_telecomunicaciones) — EDA + statistical testing + PDF reports for telecom customer retention
+- [📈 Bank Marketing](https://github.com/YacoCappelletti/analisis_marketing_banco) — Predictive modeling for bank marketing campaigns
+- [🏨 Hotel Reservations](https://github.com/YacoCappelletti/analisis_reservas_hotel) — Cancellation prediction with advanced EDA and cross-analysis
+- [💻 Fullstack Blog](https://github.com/YacoCappelletti/fake_blog) — Complete React + Spring Boot + MySQL blogging platform
 
-### 📫 Contactame
+### 📫 Contact
 
-- 📧 Email: yaco.cappelletti@gmail.com
-- 🐙 GitHub: [@YacoCappelletti](https://github.com/YacoCappelletti)
+- [GitHub](https://github.com/YacoCappelletti)
+- [LinkedIn](https://linkedin.com/in/yacocappelletti)
+- Email: yaco.cappelletti@gmail.com
 
 ---
 
-> _"Los datos son el nuevo petróleo — pero necesitan refinamiento." 💎_
+> _"Turning data into decisions."_ 💡
